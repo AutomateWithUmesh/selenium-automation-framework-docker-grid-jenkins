@@ -1,3 +1,4 @@
+# Created by .ignore support plugin (hsz.mobi)
 ### Java template
 # Compiled class file
 **/*.class
@@ -38,18 +39,11 @@
 **/*.iml
 
 **/.idea/
-
-
+**/.settings
+**/.project
+**/.classpath
 **/HELP.md
 **/.mvn/
 **/mvnw
 **/mvnw.cmd
 **/node_modules/
-
-**/volumes/master
-**/volumes/node
-**/vol
-**/output
-Makefile
-
-
